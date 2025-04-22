@@ -6,6 +6,7 @@ namespace IvanTsvetkov11zh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine()
             Display display = new Display();
         }
     }
